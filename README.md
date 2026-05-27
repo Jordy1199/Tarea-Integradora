@@ -5,29 +5,6 @@
 Sistema desarrollado en Java para automatizar el registro y control de personal en una clínica privada. Implementa conceptos fundamentales de Programación Orientada a Objetos.
 
 ---
-
-## Estructura del Proyecto
-ProyectoClinica/
-│
-├── src/
-│   ├── modelo/
-│   │   ├── Empleado.java
-│   │   ├── Medico.java
-│   │   └── Administrativo.java
-│   │
-│   ├── servicio/
-│   │   └── EmpleadoServicio.java
-│   │
-│   ├── util/
-│   │   └── Validador.java
-│   │
-│   └── app/
-│       └── Main.java
-│
-├── UML.md
-├── README.md
-└── .git/
-
 ### Descripción de Paquetes
 
 - **modelo/**: Clases del negocio (Empleado, Medico, Administrativo)
